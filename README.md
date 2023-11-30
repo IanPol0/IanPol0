@@ -6,7 +6,7 @@
 
 <div align="center">
 
-👷‍♂️ Currently working on **PrinTIC**<br>
+👷‍♂️ Currently working on **MindFuel**<br>
 🤝 Looking forward to **collaborate with people**	<br>
 🙋‍♂️ Ask me about **Express, tRPC, Prisma, Nextjs, TailwindCSS... or anything**<br>
 🏫 **ORT Argentina**
