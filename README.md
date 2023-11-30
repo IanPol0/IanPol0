@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=180&height=70&duration=4000&color=fca0b3&lines=Hello!+👋;+I'm+Polo!;" />
+	<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=180&height=70&duration=4000&color=ff9100&lines=Hello!+👋;+I'm+Polo!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Argentina</h3>
