@@ -8,7 +8,7 @@
 
 👷‍♂️ Currently working on **MindFuel**<br>
 🤝 Looking forward to **collaborate with people**	<br>
-🙋‍♂️ Ask me about **Express, tRPC, Prisma, Nextjs, TailwindCSS... or anything**<br>
+🙋‍♂️ Ask me about **Express, tRPC, Prisma, Nextjs, TailwindCSS... or coffee**<br>
 🏫 **ORT Argentina**
 
 </div>
