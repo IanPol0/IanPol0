@@ -6,7 +6,7 @@
 
 <div align="center">
 
-👷‍♂️ Currently working on **MindFuel**<br>
+👷‍♂️ Currently seeking new work oportunities<br>
 🤝 Looking forward to **collaborate with people**	<br>
 🙋‍♂️ Ask me about **Express, tRPC, Prisma, Nextjs, TailwindCSS... or coffee**<br>
 🏫 **ORT Argentina**
