@@ -19,12 +19,6 @@
   <a href="mailto:ipolonuer@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://instagram.com/Ian_pol0" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/Ian_pol0" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
-  </a>
  </div>
 
 <hr/>
