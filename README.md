@@ -6,7 +6,7 @@
 
 <div align="center">
 
-👷‍♂️ Currently working at <a href='www.oneseventech.com' target='_blank'>One Seven Tech<a><br>
+👷‍♂️ Currently working at <a href="www.oneseventech.com" target="_blank">One Seven Tech<a><br>
 🤝 Looking forward to **collaborate with people**	<br>
 🙋‍♂️ Ask me about **Express, tRPC, Prisma, Nextjs, TailwindCSS... or coffee**<br>
 🏫 **ORT Argentina**
